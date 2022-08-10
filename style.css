@@ -1,0 +1,88 @@
+body {
+  //background: rgb(190, 34, 211);
+  background-image:url("https://data.comsa.io/user/77e95fb3-a3fd-49fc-93ce-ab1dd15f147b/asset/500a6418-8013-4490-a94a-2c2f887a031d.jpeg");
+}
+
+h1 {
+  color:rgb(205, 0, 255);
+  font-size: 96px;
+  text-align: right;
+  margin-right: 80px;
+}
+
+h2 {
+  color:rgb(205, 0, 255);
+  font-size: 32px;
+}
+
+.left {
+  width: 800px;
+}
+.right {
+  width: 60%;
+}
+
+.account-card {
+  background: rgb(255, 255, 255,0.8);
+  border-radius: 16px;
+  margin: 16px;
+  padding: 16px;
+}
+
+.sender-card {
+  background: rgb(255, 255, 255,0.8);
+  border-radius: 16px;
+  margin: 16px;
+  padding: 16px;
+}
+
+#button-haichi{
+  text-align: right;
+}
+
+.button-sign{
+  width:100px;height:50px; 
+  background:rgb(205, 0, 255); 
+  color:rgb(255,255,255); 
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+.tx-card {
+  background: rgb(255, 255, 255,0.8);
+  border-radius: 16px;
+  width: 800px;
+  margin: 16px;
+  padding: 32px;
+}
+
+.textfiled-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px;
+}
+
+.textfiled {
+  width: 400px;                    // 左の白い背景の大きさ
+}
+
+#wallet-addr {
+  font-size: 24px;                 // ウォレットアドレスの文字サイズ
+}
+
+#wallet-xym {
+  text-align: right;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.container {
+  font-size: 24px;
+  margin: 16px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 80px;
+}
