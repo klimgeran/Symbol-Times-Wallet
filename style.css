@@ -7,37 +7,37 @@ h1 {
   color:rgb(48,30,255);
   font-size: 70px;
   text-align: right;
-  margin-right: 80px;
+  margin-right: 70px;
 }
 
 h2 {
   color:rgb(255,255,255);
-  font-size: 30px;
+  font-size: 25px;
 }
 
 h3 {
   color:rgb(48,30,255);
-  font-size: 30px;
+  font-size: 25px;
 }
 .left {
-  width: 800px;
+  width: 700px;
 }
 .right {
-  width: 60%;
+  width: 50%;
 }
 
 .account-card {
   background: rgb(255, 255, 255,0.8);
-  border-radius: 16px;
-  margin: 16px;
-  padding: 16px;
+  border-radius: 15px;
+  margin: 15px;
+  padding: 15px;
 }
 
 .sender-card {
   background: rgb(255, 255, 255,0.8);
-  border-radius: 16px;
-  margin: 16px;
-  padding: 16px;
+  border-radius: 15px;
+  margin: 15px;
+  padding: 15px;
 }
 
 #button-haichi{
@@ -71,17 +71,17 @@ h3 {
 }
 
 #wallet-addr {
-  font-size: 24px;                 // Размер шрифта адреса кошелька
+  font-size: 20px;                 // Размер шрифта адреса кошелька
 }
 
 #wallet-xym {
   text-align: right;
-  font-size: 40px;
+  font-size: 35px;
   font-weight: 700;
 }
 
 .container {
-  font-size: 24px;
+  font-size: 20px;
   margin: 16px;
 }
 
