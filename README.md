@@ -1,3 +1,3 @@
 ## Welcome to Symbol Times Wallet
 
-(We will add text later)
+https://klimgeran.github.io/Symbol-Times-Wallet/
