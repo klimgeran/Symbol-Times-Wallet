@@ -1,2 +1,2 @@
-# Symbol-Times-Wallet-STW
+# Symbol-Times-Wallet
 Browser Wallet for Symbol Blockchain 
