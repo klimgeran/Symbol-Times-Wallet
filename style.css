@@ -16,7 +16,7 @@ h2 {
 }
 
 h3 {
-  color:rgb(255,255,255);
+  color:rgb(48,30,255);
   font-size: 32px;
 }
 .left {
@@ -67,11 +67,11 @@ h3 {
 }
 
 .textfiled {
-  width: 400px;                    // 左の白い背景の大きさ
+  width: 400px;                    // Размер белого фона слева
 }
 
 #wallet-addr {
-  font-size: 24px;                 // ウォレットアドレスの文字サイズ
+  font-size: 24px;                 // Размер шрифта адреса кошелька
 }
 
 #wallet-xym {
