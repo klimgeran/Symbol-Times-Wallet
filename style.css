@@ -5,19 +5,19 @@ body {
 
 h1 {
   color:rgb(48,30,255);
-  font-size: 96px;
+  font-size: 70px;
   text-align: right;
   margin-right: 80px;
 }
 
 h2 {
-  color:rgb(48,30,255);
-  font-size: 32px;
+  color:rgb(255,255,255);
+  font-size: 30px;
 }
 
 h3 {
   color:rgb(48,30,255);
-  font-size: 32px;
+  font-size: 30px;
 }
 .left {
   width: 800px;
