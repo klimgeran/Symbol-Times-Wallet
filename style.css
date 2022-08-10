@@ -47,7 +47,7 @@ h3 {
 .button-sign{
   width:100px;height:50px; 
   background:rgb(48,30,255); 
-  color:rgb(255,255,255); 
+  color:rgb(0,0,0); 
   border-radius: 16px;
   cursor: pointer;
 }
