@@ -14,7 +14,10 @@ h2 {
   color:rgb(255,255,255);
   font-size: 32px;
 }
-
+h3 {
+  color:rgb(255,255,255);
+  font-size: 32px;
+}
 .left {
   width: 800px;
 }
